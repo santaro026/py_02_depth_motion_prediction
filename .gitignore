@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+results/
+
+data/
+
+lab/.vscode/
+lab/_*.py
+
+
+
+
